@@ -48,3 +48,6 @@ The MyWaifu mobile app was developed by a group formed during the Flutter Bootca
 • <b>GitHub: https://github.com/Eithne42</b><br>
 • <b>Instagram: https://www.instagram.com/teng.yy/</b><br>
 • <b>LinkedIn: https://www.linkedin.com/in/ellis-yap/</b><br>
+
+## ❓Issues/Questions?
+If you're having any issues or have queries while running the app, feel free to open a new Issue in the Issues Tab with details of your problem and we will get back to you as soon as possible!
