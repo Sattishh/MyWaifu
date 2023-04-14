@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977448159531",
+    "project_id": "ecoar-2c526",
+    "storage_bucket": "ecoar-2c526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977448159531:android:8b62a3f33493580cfb1d6e",
+        "android_client_info": {
+          "package_name": "com.example.best_flutter_ui_templates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977448159531-3svabt3plmgdpogm57m96lrhm9dkuk22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwToAGeuW3NI8qnfHoTlj2LRXuGHyfwq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977448159531-3svabt3plmgdpogm57m96lrhm9dkuk22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
