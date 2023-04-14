@@ -29,22 +29,22 @@ Since this is a demo app, some of the code hasn't been changed from the flutter 
 ## 🚀Team
 The MyWaifu mobile app was developed by a group formed during the Flutter Bootcamp organized by Google Developer Student Clubs (GDSC) Asia Pacific University and University of Malaya. After learning basics of Flutter in the workshops, we worked together to finish the project from scratch under 12 hours through the night, to pitch it the next day!
 
-Yeo Yee Tao
-• GitHub: https://github.com/yeetao13
-• Instagram: https://www.instagram.com/yeetaoyeo/
-• LinkedIn: https://www.linkedin.com/in/yee-tao-yeo-3ab555228/
+<b>Yeo Yee Tao</b><br>
+• <b>GitHub:</b> https://github.com/yeetao13<br>
+• <b>Instagram:</b> https://www.instagram.com/yeetaoyeo/<br>
+• <b>LinkedIn:</b> https://www.linkedin.com/in/yee-tao-yeo-3ab555228/<br>
 
-Sattish Pratap Shewkani
-• GitHub: https://github.com/Sattishh
-• Instagram: https://www.instagram.com/sattish_s/
-• LinkedIn: https://www.linkedin.com/in/sattishh/
+<b>Sattish Pratap Shewkani</b><br>
+• <b>GitHub: https://github.com/Sattishh</b><br>
+• <b>Instagram: https://www.instagram.com/sattish_s/</b><br>
+• <b>LinkedIn: https://www.linkedin.com/in/sattishh/</b><br>
 
-Quah Seng Kit
-• GitHub: https://github.com/jaylearnscode
-• Instagram: https://www.instagram.com/seng.kit/
-• LinkedIn: https://www.linkedin.com/in/quah-seng-kit-771690252/
+<b>Quah Seng Kit</b><br>
+• <b>GitHub: https://github.com/jaylearnscode</b><br>
+• <b>Instagram: https://www.instagram.com/seng.kit/</b><br>
+• <b>LinkedIn: https://www.linkedin.com/in/quah-seng-kit-771690252/</b><br>
 
-Elias Yap
-• GitHub: https://github.com/Eithne42
-• Instagram: https://www.instagram.com/teng.yy/
-• LinkedIn: https://www.linkedin.com/in/ellis-yap/
+<b>Elias Yap</b><br>
+• <b>GitHub: https://github.com/Eithne42</b><br>
+• <b>Instagram: https://www.instagram.com/teng.yy/</b><br>
+• <b>LinkedIn: https://www.linkedin.com/in/ellis-yap/</b><br>
